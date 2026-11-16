@@ -36,4 +36,6 @@ Python · Flask · HTML · CSS · JavaScript
 
 ## Contato
 
-Pedro Rodrigues da Cunha · [LinkedIn](https://www.linkedin.com/in/pedrorodrigues2) · [GitHub](https://github.com/rodriguespedro22)
+Pedro Rodrigues da Cunha · [Portfólio](https://rodriguespedro22.github.io/) · [LinkedIn](https://www.linkedin.com/in/pedrorodrigues2) · [GitHub](https://github.com/rodriguespedro22) · [E-mail](mailto:pedro.dacunha02@gmail.com)
+
+Aberto a oportunidades de desenvolvimento em full stack, front-end e back-end.
